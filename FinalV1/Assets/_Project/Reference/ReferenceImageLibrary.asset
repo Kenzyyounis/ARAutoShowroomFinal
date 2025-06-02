@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 0
-  m_GuidHigh: 0
+  m_GuidLow: 4837975193343749592
+  m_GuidHigh: 2073952279645953925
   m_DataStore:
     m_Storage: []
   m_Images:
@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: Car1
     m_Texture: {fileID: 2800000, guid: 4c8c2410810f0ec41b241d8276337d5f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5221137027213262216
+      m_GuidHigh: 6427042628863014314
+    m_SerializedTextureGuid:
+      m_GuidLow: 7468218715026280929
+      m_GuidHigh: 10514122208891443691
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Car2
+    m_Texture: {fileID: 2800000, guid: 5e10d1e1715a67a4eb19055a71aae991, type: 3}
